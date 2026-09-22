@@ -1,3 +1,8 @@
+'''
+Fabian Reyes Peralta
+'''
+
+
 vocales = "aeiou"
 
 for letra in "ritmo":
